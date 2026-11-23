@@ -1,5 +1,6 @@
 # Backups
 **/Backup/
+*.toe.dir/
 
 # Autosaves
 **/CrashAutoSave.*
